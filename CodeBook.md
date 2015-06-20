@@ -20,16 +20,17 @@ Via Opera Pia 11A, I-16145, Genoa, Italy.
 
 ===============================================================================
 #### Data Dictionary
+
 Format | Header | Row.names | Rows | Columns
 --- | --- | --- | --- | ---
 *Table* | *TRUE* | *FALSE* | *180* | *81*
 
 1. id
- * *Description:* id
- * *Value:* NUMERIC [-1.00 ... 1.00]
+ * *Description:* user identification number
+ * *Value:* INTEGER [1 ... 30]
 2. activity
- * *Description:* activity
- * *Value:* NUMERIC [-1.00 ... 1.00]
+ * *Description:* observed activity performed by the user
+ * *Value:* FACTOR w/ 6 levels [WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 3. tBodyAcc.mean.X
  * *Description:* the mean value of body acceleration in X direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
