@@ -1,6 +1,6 @@
 ### Getting and Cleaning Data Course Project
 ----------------------------------------------------------------------------
-run_analysis.R in scripts folder cleans and extracts a tidy data
+In scripts folder, "run_analysis.R" cleans and extracts a tidy data
 set from UCI HAR Dataset into ./data/uci_tidy.txt by merging train and
 test sets together along with corresponding activities and user ids and
 then taking the mean of the measurements containing the words "mean" or
