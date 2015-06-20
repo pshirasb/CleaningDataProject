@@ -1,3 +1,34 @@
+===============================================================================
+    DATA DESCRIPTION
+===============================================================================
+    The data was obtained by merging the training set and the test set 
+from UCI HAR Dataset together along with their corresponding users and
+activities. Mean and STD columns were then extracted. Mean values of those
+means and STDs measurements were calculated by aggregating over each 
+(user, activity) pair to obtain a wide format tidy data set.
+
+===============================================================================
+    SOURCE
+===============================================================================
+Human Activity Recognition Using Smartphones Dataset
+Version 1.0
+-------------------------------------------------------------------------------
+Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
+Smartlab - Non Linear Complex Systems Laboratory
+DITEN - Università degli Studi di Genova.
+Via Opera Pia 11A, I-16145, Genoa, Italy.
+activityrecognition@smartlab.ws
+www.smartlab.ws
+
+===============================================================================
+    DATA
+===============================================================================
+format:    :    table
+Header     :    TRUE
+row.names  :    FALSE
+Rows       :    180
+Columns    :    81
+
 1. id
  * *Description:* id
  * *Value:* NUMERIC [-1.00 ... 1.00]
