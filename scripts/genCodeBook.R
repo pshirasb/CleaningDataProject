@@ -41,19 +41,14 @@ genCodeBook = function(dir="../data") {
     tr("\\.([XYZ])", "in \\1 direction")
     tr("\\.","")
 
-    cat("", file=file.path(dir,"codebook.txt"))
+    cat("", file=file.path(dir, ".." ,"CodeBook.md"))
 
     for(i in 1:nrow(retn)) {
-        if(is.numeric(data[,i])) {
-            nrange = range(data[,i])
-            s = sprintf("%-40s%4d\n\t%s\n\t\tNUMERIC [-1.00 ... 1.00]\n", 
-                        retn[i,1], i, retn[i,2])
-        } else {
-            s = sprintf("%-40s%4d\n\t%s\n", 
-                        retn[i,1], i, retn[i,2])
-        }
-
-        cat(s, file=file.path(dir,"codebook.txt"), append=T)
+        s = sprintf("* %s [%4d]\n * *Description:* %s\n * *Value:* NUMERIC [-1.00 ... 1.00]\n", 
+                    retn[i,1], i, retn[i,2])
+        #s = sprintf("%-40s%4d\n\t%s\n\t\tNUMERIC [-1.00 ... 1.00]\n", 
+        #            retn[i,1], i, retn[i,2])
+        cat(s, file=file.path(dir, "..", "CodeBook.md"), append=T)
     }
 
     browser()
