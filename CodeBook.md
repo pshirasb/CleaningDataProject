@@ -1,4 +1,4 @@
-===============================================================================
+
 ### Description
 The data was obtained by merging the training set and the test set 
 from UCI HAR Dataset together along with their corresponding users and
@@ -23,7 +23,7 @@ www.smartlab.ws
 Format | Header | Row.names | Rows | Columns
 --- | --- | --- | --- | ---
 *Table* | *TRUE* | *FALSE* | *180* | *81*
----
+
 1. id
  * *Description:* id
  * *Value:* NUMERIC [-1.00 ... 1.00]
