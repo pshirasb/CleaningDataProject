@@ -1,13 +1,13 @@
-### Data Description
 ===============================================================================
+### Description
 The data was obtained by merging the training set and the test set 
 from UCI HAR Dataset together along with their corresponding users and
 activities. Mean and STD columns were then extracted. Mean values of those
 means and STDs measurements were calculated by aggregating over each 
 (user, activity) pair to obtain a wide format tidy data set.
 
-### SOURCE
 ===============================================================================
+### Source
 *Human Activity Recognition Using Smartphones Dataset*
 *Version 1.0*
 
@@ -18,9 +18,8 @@ Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
 
-
-### Data format
 ===============================================================================
+### Data Dictionary
 Format | Header | Row.names | Rows | Columns
 --- | --- | --- | --- | ---
 *Table* | *TRUE* | *FALSE* | *180* | *81*
