@@ -44,8 +44,8 @@ genCodeBook = function(dir="../data") {
     cat("", file=file.path(dir, ".." ,"CodeBook.md"))
 
     for(i in 1:nrow(retn)) {
-        s = sprintf("* %s [%4d]\n * *Description:* %s\n * *Value:* NUMERIC [-1.00 ... 1.00]\n", 
-                    retn[i,1], i, retn[i,2])
+        s = sprintf("%d. %s\n * *Description:* %s\n * *Value:* NUMERIC [-1.00 ... 1.00]\n", 
+                    i, retn[i,1], retn[i,2])
         #s = sprintf("%-40s%4d\n\t%s\n\t\tNUMERIC [-1.00 ... 1.00]\n", 
         #            retn[i,1], i, retn[i,2])
         cat(s, file=file.path(dir, "..", "CodeBook.md"), append=T)

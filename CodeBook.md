@@ -1,243 +1,243 @@
-* id [   1]
+1. id
  * *Description:* id
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* activity [   2]
+2. activity
  * *Description:* activity
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyAcc.mean.X [   3]
+3. tBodyAcc.mean.X
  * *Description:* the mean value of body acceleration in X direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyAcc.mean.Y [   4]
+4. tBodyAcc.mean.Y
  * *Description:* the mean value of body acceleration in Y direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyAcc.mean.Z [   5]
+5. tBodyAcc.mean.Z
  * *Description:* the mean value of body acceleration in Z direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyAcc.std.X [   6]
+6. tBodyAcc.std.X
  * *Description:* the standard deviation of body acceleration in X direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyAcc.std.Y [   7]
+7. tBodyAcc.std.Y
  * *Description:* the standard deviation of body acceleration in Y direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyAcc.std.Z [   8]
+8. tBodyAcc.std.Z
  * *Description:* the standard deviation of body acceleration in Z direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tGravityAcc.mean.X [   9]
+9. tGravityAcc.mean.X
  * *Description:* the mean value of gravity acceleration in X direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tGravityAcc.mean.Y [  10]
+10. tGravityAcc.mean.Y
  * *Description:* the mean value of gravity acceleration in Y direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tGravityAcc.mean.Z [  11]
+11. tGravityAcc.mean.Z
  * *Description:* the mean value of gravity acceleration in Z direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tGravityAcc.std.X [  12]
+12. tGravityAcc.std.X
  * *Description:* the standard deviation of gravity acceleration in X direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tGravityAcc.std.Y [  13]
+13. tGravityAcc.std.Y
  * *Description:* the standard deviation of gravity acceleration in Y direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tGravityAcc.std.Z [  14]
+14. tGravityAcc.std.Z
  * *Description:* the standard deviation of gravity acceleration in Z direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyAccJerk.mean.X [  15]
+15. tBodyAccJerk.mean.X
  * *Description:* the mean value of the jerk of body acceleration in X direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyAccJerk.mean.Y [  16]
+16. tBodyAccJerk.mean.Y
  * *Description:* the mean value of the jerk of body acceleration in Y direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyAccJerk.mean.Z [  17]
+17. tBodyAccJerk.mean.Z
  * *Description:* the mean value of the jerk of body acceleration in Z direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyAccJerk.std.X [  18]
+18. tBodyAccJerk.std.X
  * *Description:* the standard deviation of the jerk of body acceleration in X direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyAccJerk.std.Y [  19]
+19. tBodyAccJerk.std.Y
  * *Description:* the standard deviation of the jerk of body acceleration in Y direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyAccJerk.std.Z [  20]
+20. tBodyAccJerk.std.Z
  * *Description:* the standard deviation of the jerk of body acceleration in Z direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyGyro.mean.X [  21]
+21. tBodyGyro.mean.X
  * *Description:* the mean value of body angular velocity in X direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyGyro.mean.Y [  22]
+22. tBodyGyro.mean.Y
  * *Description:* the mean value of body angular velocity in Y direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyGyro.mean.Z [  23]
+23. tBodyGyro.mean.Z
  * *Description:* the mean value of body angular velocity in Z direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyGyro.std.X [  24]
+24. tBodyGyro.std.X
  * *Description:* the standard deviation of body angular velocity in X direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyGyro.std.Y [  25]
+25. tBodyGyro.std.Y
  * *Description:* the standard deviation of body angular velocity in Y direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyGyro.std.Z [  26]
+26. tBodyGyro.std.Z
  * *Description:* the standard deviation of body angular velocity in Z direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyGyroJerk.mean.X [  27]
+27. tBodyGyroJerk.mean.X
  * *Description:* the mean value of the jerk of body angular velocity in X direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyGyroJerk.mean.Y [  28]
+28. tBodyGyroJerk.mean.Y
  * *Description:* the mean value of the jerk of body angular velocity in Y direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyGyroJerk.mean.Z [  29]
+29. tBodyGyroJerk.mean.Z
  * *Description:* the mean value of the jerk of body angular velocity in Z direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyGyroJerk.std.X [  30]
+30. tBodyGyroJerk.std.X
  * *Description:* the standard deviation of the jerk of body angular velocity in X direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyGyroJerk.std.Y [  31]
+31. tBodyGyroJerk.std.Y
  * *Description:* the standard deviation of the jerk of body angular velocity in Y direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyGyroJerk.std.Z [  32]
+32. tBodyGyroJerk.std.Z
  * *Description:* the standard deviation of the jerk of body angular velocity in Z direction (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyAccMag.mean [  33]
+33. tBodyAccMag.mean
  * *Description:* the mean value of the euclidian norm of body acceleration  (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyAccMag.std [  34]
+34. tBodyAccMag.std
  * *Description:* the standard deviation of the euclidian norm of body acceleration  (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tGravityAccMag.mean [  35]
+35. tGravityAccMag.mean
  * *Description:* the mean value of the euclidian norm of gravity acceleration  (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tGravityAccMag.std [  36]
+36. tGravityAccMag.std
  * *Description:* the standard deviation of the euclidian norm of gravity acceleration  (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyAccJerkMag.mean [  37]
+37. tBodyAccJerkMag.mean
  * *Description:* the mean value of the euclidian norm of the jerk of body acceleration  (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyAccJerkMag.std [  38]
+38. tBodyAccJerkMag.std
  * *Description:* the standard deviation of the euclidian norm of the jerk of body acceleration  (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyGyroMag.mean [  39]
+39. tBodyGyroMag.mean
  * *Description:* the mean value of the euclidian norm of body angular velocity  (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyGyroMag.std [  40]
+40. tBodyGyroMag.std
  * *Description:* the standard deviation of the euclidian norm of body angular velocity  (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyGyroJerkMag.mean [  41]
+41. tBodyGyroJerkMag.mean
  * *Description:* the mean value of the euclidian norm of the jerk of body angular velocity  (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* tBodyGyroJerkMag.std [  42]
+42. tBodyGyroJerkMag.std
  * *Description:* the standard deviation of the euclidian norm of the jerk of body angular velocity  (time domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyAcc.mean.X [  43]
+43. fBodyAcc.mean.X
  * *Description:* the mean value of body acceleration in X direction (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyAcc.mean.Y [  44]
+44. fBodyAcc.mean.Y
  * *Description:* the mean value of body acceleration in Y direction (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyAcc.mean.Z [  45]
+45. fBodyAcc.mean.Z
  * *Description:* the mean value of body acceleration in Z direction (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyAcc.std.X [  46]
+46. fBodyAcc.std.X
  * *Description:* the standard deviation of body acceleration in X direction (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyAcc.std.Y [  47]
+47. fBodyAcc.std.Y
  * *Description:* the standard deviation of body acceleration in Y direction (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyAcc.std.Z [  48]
+48. fBodyAcc.std.Z
  * *Description:* the standard deviation of body acceleration in Z direction (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyAcc.meanFreq.X [  49]
+49. fBodyAcc.meanFreq.X
  * *Description:* the weighted average of the frequency of body acceleration in X direction (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyAcc.meanFreq.Y [  50]
+50. fBodyAcc.meanFreq.Y
  * *Description:* the weighted average of the frequency of body acceleration in Y direction (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyAcc.meanFreq.Z [  51]
+51. fBodyAcc.meanFreq.Z
  * *Description:* the weighted average of the frequency of body acceleration in Z direction (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyAccJerk.mean.X [  52]
+52. fBodyAccJerk.mean.X
  * *Description:* the mean value of the jerk of body acceleration in X direction (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyAccJerk.mean.Y [  53]
+53. fBodyAccJerk.mean.Y
  * *Description:* the mean value of the jerk of body acceleration in Y direction (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyAccJerk.mean.Z [  54]
+54. fBodyAccJerk.mean.Z
  * *Description:* the mean value of the jerk of body acceleration in Z direction (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyAccJerk.std.X [  55]
+55. fBodyAccJerk.std.X
  * *Description:* the standard deviation of the jerk of body acceleration in X direction (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyAccJerk.std.Y [  56]
+56. fBodyAccJerk.std.Y
  * *Description:* the standard deviation of the jerk of body acceleration in Y direction (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyAccJerk.std.Z [  57]
+57. fBodyAccJerk.std.Z
  * *Description:* the standard deviation of the jerk of body acceleration in Z direction (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyAccJerk.meanFreq.X [  58]
+58. fBodyAccJerk.meanFreq.X
  * *Description:* the weighted average of the frequency of the jerk of body acceleration in X direction (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyAccJerk.meanFreq.Y [  59]
+59. fBodyAccJerk.meanFreq.Y
  * *Description:* the weighted average of the frequency of the jerk of body acceleration in Y direction (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyAccJerk.meanFreq.Z [  60]
+60. fBodyAccJerk.meanFreq.Z
  * *Description:* the weighted average of the frequency of the jerk of body acceleration in Z direction (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyGyro.mean.X [  61]
+61. fBodyGyro.mean.X
  * *Description:* the mean value of body angular velocity in X direction (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyGyro.mean.Y [  62]
+62. fBodyGyro.mean.Y
  * *Description:* the mean value of body angular velocity in Y direction (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyGyro.mean.Z [  63]
+63. fBodyGyro.mean.Z
  * *Description:* the mean value of body angular velocity in Z direction (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyGyro.std.X [  64]
+64. fBodyGyro.std.X
  * *Description:* the standard deviation of body angular velocity in X direction (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyGyro.std.Y [  65]
+65. fBodyGyro.std.Y
  * *Description:* the standard deviation of body angular velocity in Y direction (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyGyro.std.Z [  66]
+66. fBodyGyro.std.Z
  * *Description:* the standard deviation of body angular velocity in Z direction (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyGyro.meanFreq.X [  67]
+67. fBodyGyro.meanFreq.X
  * *Description:* the weighted average of the frequency of body angular velocity in X direction (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyGyro.meanFreq.Y [  68]
+68. fBodyGyro.meanFreq.Y
  * *Description:* the weighted average of the frequency of body angular velocity in Y direction (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyGyro.meanFreq.Z [  69]
+69. fBodyGyro.meanFreq.Z
  * *Description:* the weighted average of the frequency of body angular velocity in Z direction (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyAccMag.mean [  70]
+70. fBodyAccMag.mean
  * *Description:* the mean value of the euclidian norm of body acceleration  (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyAccMag.std [  71]
+71. fBodyAccMag.std
  * *Description:* the standard deviation of the euclidian norm of body acceleration  (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyAccMag.meanFreq [  72]
+72. fBodyAccMag.meanFreq
  * *Description:* the weighted average of the frequency of the euclidian norm of body acceleration  (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyBodyAccJerkMag.mean [  73]
+73. fBodyBodyAccJerkMag.mean
  * *Description:* the mean value of the euclidian norm of the jerk of body acceleration  (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyBodyAccJerkMag.std [  74]
+74. fBodyBodyAccJerkMag.std
  * *Description:* the standard deviation of the euclidian norm of the jerk of body acceleration  (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyBodyAccJerkMag.meanFreq [  75]
+75. fBodyBodyAccJerkMag.meanFreq
  * *Description:* the weighted average of the frequency of the euclidian norm of the jerk of body acceleration  (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyBodyGyroMag.mean [  76]
+76. fBodyBodyGyroMag.mean
  * *Description:* the mean value of the euclidian norm of body angular velocity  (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyBodyGyroMag.std [  77]
+77. fBodyBodyGyroMag.std
  * *Description:* the standard deviation of the euclidian norm of body angular velocity  (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyBodyGyroMag.meanFreq [  78]
+78. fBodyBodyGyroMag.meanFreq
  * *Description:* the weighted average of the frequency of the euclidian norm of body angular velocity  (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyBodyGyroJerkMag.mean [  79]
+79. fBodyBodyGyroJerkMag.mean
  * *Description:* the mean value of the euclidian norm of the jerk of body angular velocity  (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyBodyGyroJerkMag.std [  80]
+80. fBodyBodyGyroJerkMag.std
  * *Description:* the standard deviation of the euclidian norm of the jerk of body angular velocity  (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
-* fBodyBodyGyroJerkMag.meanFreq [  81]
+81. fBodyBodyGyroJerkMag.meanFreq
  * *Description:* the weighted average of the frequency of the euclidian norm of the jerk of body angular velocity  (frequency domain)
  * *Value:* NUMERIC [-1.00 ... 1.00]
