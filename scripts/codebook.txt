@@ -1,0 +1,263 @@
+id                                         1
+	id
+		NUMERIC 1.000000...30.000000
+activity                                   2
+	activity
+tBodyAcc.mean.X                            3
+	the mean value of body acceleration in X direction (time domain)
+		NUMERIC 0.221598...0.301461
+tBodyAcc.mean.Y                            4
+	the mean value of body acceleration in Y direction (time domain)
+		NUMERIC -0.040514...-0.001308
+tBodyAcc.mean.Z                            5
+	the mean value of body acceleration in Z direction (time domain)
+		NUMERIC -0.152514...-0.075378
+tBodyAcc.std.X                             6
+	the standard deviation of body acceleration in X direction (time domain)
+		NUMERIC -0.996069...0.626917
+tBodyAcc.std.Y                             7
+	the standard deviation of body acceleration in Y direction (time domain)
+		NUMERIC -0.990241...0.616937
+tBodyAcc.std.Z                             8
+	the standard deviation of body acceleration in Z direction (time domain)
+		NUMERIC -0.987659...0.609018
+tGravityAcc.mean.X                         9
+	the mean value of gravity acceleration in X direction (time domain)
+		NUMERIC -0.680043...0.974509
+tGravityAcc.mean.Y                        10
+	the mean value of gravity acceleration in Y direction (time domain)
+		NUMERIC -0.479895...0.956594
+tGravityAcc.mean.Z                        11
+	the mean value of gravity acceleration in Z direction (time domain)
+		NUMERIC -0.495089...0.957873
+tGravityAcc.std.X                         12
+	the standard deviation of gravity acceleration in X direction (time domain)
+		NUMERIC -0.996764...-0.829555
+tGravityAcc.std.Y                         13
+	the standard deviation of gravity acceleration in Y direction (time domain)
+		NUMERIC -0.994248...-0.643578
+tGravityAcc.std.Z                         14
+	the standard deviation of gravity acceleration in Z direction (time domain)
+		NUMERIC -0.990957...-0.610161
+tBodyAccJerk.mean.X                       15
+	the mean value of the jerk of body acceleration in X direction (time domain)
+		NUMERIC 0.042688...0.130193
+tBodyAccJerk.mean.Y                       16
+	the mean value of the jerk of body acceleration in Y direction (time domain)
+		NUMERIC -0.038687...0.056819
+tBodyAccJerk.mean.Z                       17
+	the mean value of the jerk of body acceleration in Z direction (time domain)
+		NUMERIC -0.067458...0.038053
+tBodyAccJerk.std.X                        18
+	the standard deviation of the jerk of body acceleration in X direction (time domain)
+		NUMERIC -0.994605...0.544273
+tBodyAccJerk.std.Y                        19
+	the standard deviation of the jerk of body acceleration in Y direction (time domain)
+		NUMERIC -0.989514...0.355307
+tBodyAccJerk.std.Z                        20
+	the standard deviation of the jerk of body acceleration in Z direction (time domain)
+		NUMERIC -0.993288...0.031016
+tBodyGyro.mean.X                          21
+	the mean value of body angular velocity in X direction (time domain)
+		NUMERIC -0.205775...0.192704
+tBodyGyro.mean.Y                          22
+	the mean value of body angular velocity in Y direction (time domain)
+		NUMERIC -0.204205...0.027471
+tBodyGyro.mean.Z                          23
+	the mean value of body angular velocity in Z direction (time domain)
+		NUMERIC -0.072455...0.179102
+tBodyGyro.std.X                           24
+	the standard deviation of body angular velocity in X direction (time domain)
+		NUMERIC -0.994277...0.267657
+tBodyGyro.std.Y                           25
+	the standard deviation of body angular velocity in Y direction (time domain)
+		NUMERIC -0.994210...0.476519
+tBodyGyro.std.Z                           26
+	the standard deviation of body angular velocity in Z direction (time domain)
+		NUMERIC -0.985538...0.564876
+tBodyGyroJerk.mean.X                      27
+	the mean value of the jerk of body angular velocity in X direction (time domain)
+		NUMERIC -0.157213...-0.022092
+tBodyGyroJerk.mean.Y                      28
+	the mean value of the jerk of body angular velocity in Y direction (time domain)
+		NUMERIC -0.076809...-0.013202
+tBodyGyroJerk.mean.Z                      29
+	the mean value of the jerk of body angular velocity in Z direction (time domain)
+		NUMERIC -0.092500...-0.006941
+tBodyGyroJerk.std.X                       30
+	the standard deviation of the jerk of body angular velocity in X direction (time domain)
+		NUMERIC -0.996543...0.179149
+tBodyGyroJerk.std.Y                       31
+	the standard deviation of the jerk of body angular velocity in Y direction (time domain)
+		NUMERIC -0.997082...0.295946
+tBodyGyroJerk.std.Z                       32
+	the standard deviation of the jerk of body angular velocity in Z direction (time domain)
+		NUMERIC -0.995381...0.193206
+tBodyAccMag.mean                          33
+	the mean value of the euclidian norm of body acceleration  (time domain)
+		NUMERIC -0.986493...0.644604
+tBodyAccMag.std                           34
+	the standard deviation of the euclidian norm of body acceleration  (time domain)
+		NUMERIC -0.986465...0.428406
+tGravityAccMag.mean                       35
+	the mean value of the euclidian norm of gravity acceleration  (time domain)
+		NUMERIC -0.986493...0.644604
+tGravityAccMag.std                        36
+	the standard deviation of the euclidian norm of gravity acceleration  (time domain)
+		NUMERIC -0.986465...0.428406
+tBodyAccJerkMag.mean                      37
+	the mean value of the euclidian norm of the jerk of body acceleration  (time domain)
+		NUMERIC -0.992815...0.434490
+tBodyAccJerkMag.std                       38
+	the standard deviation of the euclidian norm of the jerk of body acceleration  (time domain)
+		NUMERIC -0.994647...0.450612
+tBodyGyroMag.mean                         39
+	the mean value of the euclidian norm of body angular velocity  (time domain)
+		NUMERIC -0.980741...0.418005
+tBodyGyroMag.std                          40
+	the standard deviation of the euclidian norm of body angular velocity  (time domain)
+		NUMERIC -0.981373...0.299976
+tBodyGyroJerkMag.mean                     41
+	the mean value of the euclidian norm of the jerk of body angular velocity  (time domain)
+		NUMERIC -0.997323...0.087582
+tBodyGyroJerkMag.std                      42
+	the standard deviation of the euclidian norm of the jerk of body angular velocity  (time domain)
+		NUMERIC -0.997666...0.250173
+fBodyAcc.mean.X                           43
+	the mean value of body acceleration in X direction (frequency domain)
+		NUMERIC -0.995250...0.537012
+fBodyAcc.mean.Y                           44
+	the mean value of body acceleration in Y direction (frequency domain)
+		NUMERIC -0.989034...0.524188
+fBodyAcc.mean.Z                           45
+	the mean value of body acceleration in Z direction (frequency domain)
+		NUMERIC -0.989474...0.280736
+fBodyAcc.std.X                            46
+	the standard deviation of body acceleration in X direction (frequency domain)
+		NUMERIC -0.996605...0.658507
+fBodyAcc.std.Y                            47
+	the standard deviation of body acceleration in Y direction (frequency domain)
+		NUMERIC -0.990680...0.560191
+fBodyAcc.std.Z                            48
+	the standard deviation of body acceleration in Z direction (frequency domain)
+		NUMERIC -0.987225...0.687124
+fBodyAcc.meanFreq.X                       49
+	the weighted average of the frequency of body acceleration in X direction (frequency domain)
+		NUMERIC -0.635913...0.159124
+fBodyAcc.meanFreq.Y                       50
+	the weighted average of the frequency of body acceleration in Y direction (frequency domain)
+		NUMERIC -0.379518...0.466528
+fBodyAcc.meanFreq.Z                       51
+	the weighted average of the frequency of body acceleration in Z direction (frequency domain)
+		NUMERIC -0.520115...0.402533
+fBodyAccJerk.mean.X                       52
+	the mean value of the jerk of body acceleration in X direction (frequency domain)
+		NUMERIC -0.994631...0.474317
+fBodyAccJerk.mean.Y                       53
+	the mean value of the jerk of body acceleration in Y direction (frequency domain)
+		NUMERIC -0.989399...0.276717
+fBodyAccJerk.mean.Z                       54
+	the mean value of the jerk of body acceleration in Z direction (frequency domain)
+		NUMERIC -0.992018...0.157776
+fBodyAccJerk.std.X                        55
+	the standard deviation of the jerk of body acceleration in X direction (frequency domain)
+		NUMERIC -0.995074...0.476804
+fBodyAccJerk.std.Y                        56
+	the standard deviation of the jerk of body acceleration in Y direction (frequency domain)
+		NUMERIC -0.990468...0.349771
+fBodyAccJerk.std.Z                        57
+	the standard deviation of the jerk of body acceleration in Z direction (frequency domain)
+		NUMERIC -0.993108...-0.006236
+fBodyAccJerk.meanFreq.X                   58
+	the weighted average of the frequency of the jerk of body acceleration in X direction (frequency domain)
+		NUMERIC -0.576044...0.331449
+fBodyAccJerk.meanFreq.Y                   59
+	the weighted average of the frequency of the jerk of body acceleration in Y direction (frequency domain)
+		NUMERIC -0.601971...0.195677
+fBodyAccJerk.meanFreq.Z                   60
+	the weighted average of the frequency of the jerk of body acceleration in Z direction (frequency domain)
+		NUMERIC -0.627555...0.230108
+fBodyGyro.mean.X                          61
+	the mean value of body angular velocity in X direction (frequency domain)
+		NUMERIC -0.993123...0.474962
+fBodyGyro.mean.Y                          62
+	the mean value of body angular velocity in Y direction (frequency domain)
+		NUMERIC -0.994025...0.328817
+fBodyGyro.mean.Z                          63
+	the mean value of body angular velocity in Z direction (frequency domain)
+		NUMERIC -0.985958...0.492414
+fBodyGyro.std.X                           64
+	the standard deviation of body angular velocity in X direction (frequency domain)
+		NUMERIC -0.994652...0.196613
+fBodyGyro.std.Y                           65
+	the standard deviation of body angular velocity in Y direction (frequency domain)
+		NUMERIC -0.994353...0.646234
+fBodyGyro.std.Z                           66
+	the standard deviation of body angular velocity in Z direction (frequency domain)
+		NUMERIC -0.986725...0.522454
+fBodyGyro.meanFreq.X                      67
+	the weighted average of the frequency of body angular velocity in X direction (frequency domain)
+		NUMERIC -0.395770...0.249209
+fBodyGyro.meanFreq.Y                      68
+	the weighted average of the frequency of body angular velocity in Y direction (frequency domain)
+		NUMERIC -0.666815...0.273141
+fBodyGyro.meanFreq.Z                      69
+	the weighted average of the frequency of body angular velocity in Z direction (frequency domain)
+		NUMERIC -0.507491...0.377074
+fBodyAccMag.mean                          70
+	the mean value of the euclidian norm of body acceleration  (frequency domain)
+		NUMERIC -0.986801...0.586638
+fBodyAccMag.std                           71
+	the standard deviation of the euclidian norm of body acceleration  (frequency domain)
+		NUMERIC -0.987648...0.178685
+fBodyAccMag.meanFreq                      72
+	the weighted average of the frequency of the euclidian norm of body acceleration  (frequency domain)
+		NUMERIC -0.312338...0.435847
+fBodyBodyAccJerkMag.mean                  73
+	the mean value of the euclidian norm of the jerk of body acceleration  (frequency domain)
+		NUMERIC -0.993998...0.538405
+fBodyBodyAccJerkMag.std                   74
+	the standard deviation of the euclidian norm of the jerk of body acceleration  (frequency domain)
+		NUMERIC -0.994367...0.316346
+fBodyBodyAccJerkMag.meanFreq              75
+	the weighted average of the frequency of the euclidian norm of the jerk of body acceleration  (frequency domain)
+		NUMERIC -0.125210...0.488088
+fBodyBodyGyroMag.mean                     76
+	the mean value of the euclidian norm of body angular velocity  (frequency domain)
+		NUMERIC -0.986535...0.203980
+fBodyBodyGyroMag.std                      77
+	the standard deviation of the euclidian norm of body angular velocity  (frequency domain)
+		NUMERIC -0.981469...0.236660
+fBodyBodyGyroMag.meanFreq                 78
+	the weighted average of the frequency of the euclidian norm of body angular velocity  (frequency domain)
+		NUMERIC -0.456639...0.409522
+fBodyBodyGyroJerkMag.mean                 79
+	the mean value of the euclidian norm of the jerk of body angular velocity  (frequency domain)
+		NUMERIC -0.997617...0.146619
+fBodyBodyGyroJerkMag.std                  80
+	the standard deviation of the euclidian norm of the jerk of body angular velocity  (frequency domain)
+		NUMERIC -0.997585...0.287835
+fBodyBodyGyroJerkMag.meanFreq             81
+	the weighted average of the frequency of the euclidian norm of the jerk of body angular velocity  (frequency domain)
+		NUMERIC -0.182924...0.426302
+angle.tBodyAccMean.gravity                82
+	angletbody acceleration Meangravity
+		NUMERIC -0.163043...0.129154
+angle.tBodyAccJerkMean.gravityMean        83
+	the jerk of angletbody acceleration MeangravityMean
+		NUMERIC -0.120554...0.203260
+angle.tBodyGyroMean.gravityMean           84
+	angletbody angular velocity MeangravityMean
+		NUMERIC -0.389305...0.444101
+angle.tBodyGyroJerkMean.gravityMean       85
+	the jerk of angletbody angular velocity MeangravityMean
+		NUMERIC -0.223672...0.182385
+angle.X.gravityMean                       86
+	anglein X directiongravityMean
+		NUMERIC -0.947117...0.737784
+angle.Y.gravityMean                       87
+	anglein Y directiongravityMean
+		NUMERIC -0.874568...0.424761
+angle.Z.gravityMean                       88
+	anglein Z directiongravityMean
+		NUMERIC -0.873649...0.390444
